@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>%{userName}% - Användarnamn</title>
+</head>
+<body>
+    <h2>Användarnamn</h2>
+    <p>%{userName}%</p>
+    <h2>Rubrik</h2>
+    <p>%{title}%</p>
+    <h2>Brödtext</h2>
+    <p>%{bodyText}%</p>
+</body>
+</html>
